@@ -1,0 +1,24 @@
+.abertura{
+    font-style: italic;
+    max-width: 90%;
+    margin: 0 auto;
+    background-color: rosybrown;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 5px #999;
+}
+.conteudo{
+    margin: 30px auto;
+    max-width:90vw;
+}
+.card{
+    width:25vw;
+    height: 100px;
+    margin: 1vw 2.50vw;
+    background-color: cadetblue;
+    float: left;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px black;
+}
